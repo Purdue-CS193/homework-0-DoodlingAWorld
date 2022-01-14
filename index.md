@@ -1,4 +1,6 @@
-## Hello and Welcome to my personal GitHub page!
+## Archit's First CS193 Homework
+
+# Hello and Welcome to my Page!
 
 There isn't much on here at the moment, but I'll be sure to let you know the moment there is something to show!
 
